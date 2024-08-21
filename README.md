@@ -128,7 +128,19 @@ All actions are reflected in the terminal, providing real-time feedback for deve
 
 ## 8. Password Security
 
-(Details on password security would be provided here)
+For added security, each chat room is protected by a password that is randomly generated using Python's random module when the room is created. The password is shared only with the room creator, who can then distribute it to other users.<br>
+
+### How It Works
+
+1. *Password Generation*:
+   - When a user creates a new room, a random password is generated using a combination of alphanumeric characters.
+   - This password is stored in memory and returned to the room creator.
+
+2. *Password Verification*:
+   - Users attempting to join a room must provide the correct password.
+   - The server checks the provided password against the stored password for that room.
+   - Only users with the correct password are allowed to join the room.
+
 
 ## 9. Preview of Frontend
 

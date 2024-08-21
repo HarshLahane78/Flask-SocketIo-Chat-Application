@@ -49,24 +49,33 @@ This Flask-SocketIO chat application provides a real-time messaging platform tha
    ```bash
     https://github.com/HarshLahane78/Flask-Socketio-Chat-Application.git
    ```
+   ```bash
    cd flask-socketio-chat
+   ```
    
 
 2. *Set Up a Virtual Environment*:
-   bash
+   ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+   source :
+   ```bash
+   venv/bin/activate
+   ```
+  # On Windows:
+  ```bash
+   venv\Scripts\activate
+```
    
-
-3. *Install Dependencies*:
-   bash
+4. *Install Dependencies*:
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
-4. *Run the Application*:
-   bash
+5. *Run the Application*:
+   ```bash
    flask run
-   
+   ```
 
 The application should now be running at http://127.0.0.1:5000.
 
@@ -187,11 +196,3 @@ For production, consider the following steps:
 3. *Commit your changes* with clear messages.
 4. *Push to your branch*.
 5. *Create a Pull Request* on GitHub.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README file provides a solid foundation for understanding, setting up, and contributing to your Flask-SocketIO chat application, covering everything from installation to advanced usage and deployment.

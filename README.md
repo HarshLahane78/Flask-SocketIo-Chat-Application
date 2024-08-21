@@ -29,7 +29,7 @@ This Flask-SocketIO chat application provides a real-time messaging platform tha
 
 ## Technologies Used
 
-- *Python 3.x*
+- *Python *
 - *Flask* - A micro web framework for Python.
 - *Flask-SocketIO* - Enables WebSocket communication in Flask.
 - *Werkzeug* - Provides utilities for password hashing.
@@ -46,8 +46,9 @@ This Flask-SocketIO chat application provides a real-time messaging platform tha
 ### Installation Steps
 
 1. *Clone the Repository*:
-   bash
-   git clone https://github.com/your-repository/flask-socketio-chat.git
+   ```bash
+    https://github.com/HarshLahane78/Flask-Socketio-Chat-Application.git
+   ```
    cd flask-socketio-chat
    
 

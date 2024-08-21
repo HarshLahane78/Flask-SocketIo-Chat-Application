@@ -152,4 +152,7 @@ while chatting in the room :
 
 ## 10. Contact
 
-(Contact information or further resources would be provided here)
+For any questions or feedback, feel free to reach out:
+<br>
+Name: Harshwardhan Lahane<br>
+Email: <a href="mailto:harshwardhanlahane633@gmail.com">harshwardhanlahane633@gmail.com</a>

@@ -13,7 +13,7 @@
 9. [Testing](#testing)
 10. [Deployment](#deployment)
 11. [Contributing](#contributing)
-12. [License](#license)
+12. [Contact](#Contact)
 
 ## Introduction
 
@@ -196,3 +196,5 @@ For production, consider the following steps:
 3. *Commit your changes* with clear messages.
 4. *Push to your branch*.
 5. *Create a Pull Request* on GitHub.
+
+## Contact

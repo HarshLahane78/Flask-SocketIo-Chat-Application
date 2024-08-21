@@ -145,7 +145,10 @@ For added security, each chat room is protected by a password that is randomly g
 ## 9. Preview of Frontend
 
 While Creating or joining the room : 
-![image](https://github.com/user-attachments/assets/cfe9b1a7-b5bc-4a43-b445-d317d5166500)
+![image](https://github.com/user-attachments/assets/cfe9b1a7-b5bc-4a43-b445-d317d5166500)<br>
+
+while chatting in the room : 
+![image](https://github.com/user-attachments/assets/644e9593-fb90-44c1-bd98-8d57d234e0e6)
 
 ## 10. Contact
 
